@@ -22,7 +22,7 @@ Students are will work in teams of 3-5 students for the project; teams of two ca
 
 Teams must be in place by end of day on Thursday, September 12th. If you have not identified a team at this point, you will be assigned a team. 
 
-#### Proposal (due 9/20 by end of day) 
+#### Proposal (due 9/22 by end of day) 
 Provide an outline of your project direction and the names of associated team members. 
 The outline should have enough detail so that staff can determine if it meets the minimum expectations, or if it goes too far to be reasonable by the deadline. Please include a general description of a project, and list of key technologies/libraries you plan on using (e.g. React, Three.js, Svelte, TypeScript etc.). Two to four paragraphs should provide enough level of detail. Name the file proposal.md and submit a pull request by Friday, September 20th at 11:59 PM (end of day). *Only one pull request is required per team*.
 
