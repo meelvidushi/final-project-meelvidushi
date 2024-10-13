@@ -12,6 +12,8 @@ I created a personal finance tracker.
   
 ## General description (Project Overview)
 - Used Typescript, Tailwind CSS, & Charts.js
+- Styled completely with Tailwind frameworks so it looks good
+- Register, Login, Expense Tracker pages
 - MongoDB for database administration, controlled with Atlas
 - Express server with Node JS server side programming
 - Static web page content and design.
