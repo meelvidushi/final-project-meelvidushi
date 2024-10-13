@@ -8,6 +8,7 @@ I created a personal finance tracker.
 - On GitHub [here](https://github.com/meelvidushi/final-project-meelvidushi/tree/main)
 - Proposal [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/proposal.md)
 - Project Description [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/projectDescription.md)
+- Deployed [here on vercel](https://final-project-meelvidushi-e8i1.vercel.app/) 
   
 ## General description (Project Overview)
 - Used Typescript, Tailwind CSS, & Charts.js
