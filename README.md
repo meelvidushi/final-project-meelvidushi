@@ -1,9 +1,13 @@
 # Final Project
 *Due October 10th by 11:59 AM*
 
-For your final project, you'll implement a web application that exhibits understanding of the course materials. 
-This project should provide an opportunity to both be creative and to pursue individual research and learning goals.
+I created a personal finance tracker. 
 
+**Helpful Links: **
+- On GitHub [here](https://github.com/meelvidushi/final-project-meelvidushi/tree/main)
+- Proposal [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/proposal.md)
+- Project Description [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/projectDescription.md)
+  
 ## General description (Project Overview)
 - Used Typescript, Tailwind CSS, & Charts.js
 - MongoDB for database administration, controlled with Atlas
