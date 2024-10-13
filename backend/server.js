@@ -25,6 +25,10 @@ mongoose.connect(process.env.MONGO_URI, {
 app.use('/api/auth', authRoutes); 
 app.use('/api/expenses', expenseRoutes); 
 
+app.get('/', (req, res) => {
+  res.send("backend running")
+})
+
 // Start the server
 const PORT = process.env.PORT || 5002;
 app.listen(PORT, () => {
