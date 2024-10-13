@@ -3,7 +3,8 @@
 
 I created a personal finance tracker. 
 
-**Helpful Links: **
+**Helpful Links
+**
 - On GitHub [here](https://github.com/meelvidushi/final-project-meelvidushi/tree/main)
 - Proposal [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/proposal.md)
 - Project Description [here](https://github.com/meelvidushi/final-project-meelvidushi/blob/main/projectDescription.md)
