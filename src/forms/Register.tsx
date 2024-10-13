@@ -18,7 +18,7 @@ const Register = () => {
     }
 
     try {
-      await axios.post('/api/auth/register', { email, password });
+      await axios.post('https://final-project-backend-snowy.vercel.app/api/auth/register', { email, password });
       navigate('/');
     } catch (err) {
       setError('Account already exists or passwords not matching. Error during registration.');

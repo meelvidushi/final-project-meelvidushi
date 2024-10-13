@@ -26,7 +26,7 @@ const Dashboard = () => {
       }
 
       try {
-        const response = await axios.get('/api/expenses', {
+        const response = await axios.get('https://final-project-backend-snowy.vercel.app/api/expenses', {
           headers: { Authorization: `Bearer ${token}` },
         });
         setExpenses(response.data);
@@ -55,7 +55,7 @@ const Dashboard = () => {
   const addExpense = async (newExpense: { name: string; amount: number; category: string }) => {
     const token = localStorage.getItem('token');
     try {
-      const response = await axios.post('/api/expenses', newExpense, {
+      const response = await axios.post('https://final-project-backend-snowy.vercel.app/api/expenses', newExpense, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const updatedExpenses = [...expenses, response.data];
@@ -69,7 +69,7 @@ const Dashboard = () => {
   const deleteExpense = async (id: string) => {
     const token = localStorage.getItem('token');
     try {
-      await axios.delete(`/api/expenses/${id}`, {
+      await axios.delete(`https://final-project-backend-snowy.vercel.app/api/expenses/${id}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const updatedExpenses = expenses.filter((expense) => expense._id !== id);
